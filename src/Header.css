@@ -1,0 +1,11 @@
+.header {
+  /*background-color: #4CAF50;*/
+  background-image: url(./images/banner_01.gif);
+  /*background-repeat: no-repeat;*/
+  /*color: white;*/
+  text-align: left;
+  padding: 1em;
+}
+h1
+{
+}
